@@ -15,4 +15,5 @@ EXPERIMENT-2(https://github.com/SNEGHApc07/snegha562-OS/blob/main/EXPERIMENT-2)
 EXPERIMENT-3(
 ## OUTPUT
 
+![Uploading image.png…]()
 
