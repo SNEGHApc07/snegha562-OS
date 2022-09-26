@@ -8,3 +8,6 @@
 ## OUTPUT
 
 ![image](https://user-images.githubusercontent.com/112924718/192270258-baf2edf4-eb1e-42e1-8f43-288a7644f3bd.png)
+
+## EXPERIMENT-3
+
