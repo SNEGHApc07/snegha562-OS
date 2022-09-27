@@ -62,4 +62,12 @@ EXPERIMENT-10(https://github.com/SNEGHApc07/snegha562-OS/blob/main/EXPERIMENT-10
 ![image](https://user-images.githubusercontent.com/112924718/192317364-96969482-e538-4fab-bd1b-32ec09b5c860.png)
 
 
+## EXPERIMENT-13
+EXPERIMENT-13(
+## OUTPUR
+
+![image](https://user-images.githubusercontent.com/112924718/192424632-e3a63fe5-94e8-4cd0-956f-4139bda60ecb.png)
+
+
+
 
